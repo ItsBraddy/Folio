@@ -740,12 +740,12 @@ li {
 @media (width:720px){
     #con1 {
         background-color: #1B1B1B;
-        height: 1600px;
+        height: 1700px;
         width: 100%;
     }
     .col-md-4{
         background-color: #222222;
-        height: 1600px;
+        height: 1700px;
         position: absolute;
         width: 50%;
     }
